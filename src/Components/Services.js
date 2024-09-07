@@ -34,10 +34,10 @@ function Services() {
                 </div>
                 <div class="content">
                   <h4 class="title">
-                    <a href="#">Reactjs Apps Development</a>
+                    <a href="#">React Apps Development</a>
                   </h4>
                   <p class="description">
-                    1+ years of experience at ReactJS, Redux, Context,
+                    1+ years of experience at React, Redux, Context,
                     React-Bootstrap, React-Materical UI and having a good
                     experience at state management{" "}
                   </p>
@@ -70,9 +70,9 @@ function Services() {
                   <p class="description">
                     {" "}
                     1+ years of WordPress experience, skilled in theme
-                    customization, plugin development, WooCommerce integration,
-                    and front-end development with HTML, CSS, and JavaScript.
-                    Proficient with Elementor, ensuring responsive{" "}
+                    customization, WooCommerce integration, and front-end
+                    development with HTML, CSS, and JavaScript. Proficient with
+                    Elementor, ensuring responsive{" "}
                   </p>
                   <a class="read-more-button" href="#">
                     <i class="feather-arrow-right"></i>
@@ -101,7 +101,7 @@ function Services() {
                     <a href="#">Front-End Support </a>
                   </h4>
                   <p class="description">
-                    I am professional at HTML5, CSS3 Bootstrap5, JavaScript and
+                    I am professional at HTML5, CSS3, Bootstrap5, JavaScript and
                     TypeScript and love to deal with the defferent challenges to
                     provide a stunning application interface{" "}
                   </p>
