@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/amarabbas/static/css/main.225e5e70.css",
+    "main.js": "/amarabbas/static/js/main.1bc85b67.js",
+    "static/js/787.5809834d.chunk.js": "/amarabbas/static/js/787.5809834d.chunk.js",
+    "index.html": "/amarabbas/index.html",
+    "static/media/logo.svg": "/amarabbas/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.225e5e70.css.map": "/amarabbas/static/css/main.225e5e70.css.map",
+    "main.1bc85b67.js.map": "/amarabbas/static/js/main.1bc85b67.js.map",
+    "787.5809834d.chunk.js.map": "/amarabbas/static/js/787.5809834d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.225e5e70.css",
+    "static/js/main.1bc85b67.js"
+  ]
+}
