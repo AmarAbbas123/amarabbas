@@ -17,7 +17,7 @@ function Header() {
             <ul className="primary-menu nav nav-pills">
               <li className="nav-item">
                 <a className="nav-link smoth-animation-two active" href="#home">
-                  <i data-feather="home"></i> Home
+                  <i data-feather="home"></i> 
                 </a>
               </li>
               <li className="nav-item">
