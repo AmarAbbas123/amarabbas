@@ -8,7 +8,7 @@ function Header() {
           <div className="logo-area">
             <a href="index.html">
               <img
-                src={process.env.PUBLIC_URL + "/assets/images/logo/amar.jpg"}
+                src={process.env.PUBLIC_URL + "/assets/images/amar.jpg"}
                 alt="personal-logo"
               />
             </a>

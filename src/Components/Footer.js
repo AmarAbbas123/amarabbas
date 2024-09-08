@@ -8,7 +8,10 @@ function Footer() {
           <div className="col-lg-12">
             <div className="footer-area text-center">
               <p className="description ">
-                © 2024. All rights reserved by <a target="_blank" href="#"></a>
+                © 2024. All rights reserved by{" "}
+                <a target="_blank" href="#">
+                  Amar Abbas.
+                </a>
               </p>
             </div>
           </div>
